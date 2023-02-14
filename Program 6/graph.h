@@ -1,6 +1,4 @@
-// graph.h <Starter Code>
-// < Vedant Patel >
-// UIN: 659812991
+
 // Basic graph class using adjacency matrix representation.  Currently
 // limited to a graph with at most 100 vertices.
 //
