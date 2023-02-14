@@ -1,8 +1,4 @@
-// application.cpp <Starter Code>
-// <Vedant Patel>
-//
-// University of Illinois at Chicago
-// CS 251: Fall 2021
+
 // Project #7 - Openstreet Maps
 //
 // References:
