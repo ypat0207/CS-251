@@ -1,6 +1,6 @@
 
 // Project #7 - Openstreet Maps
-//
+// Name: Yash Patel(Grader)
 // References:
 // TinyXML: https://github.com/leethomason/tinyxml2
 // OpenStreetMap: https://www.openstreetmap.org
