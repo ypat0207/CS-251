@@ -15,7 +15,7 @@
   the code will automatically uppercase the first character of person name.
   After user inputs the data it will get stored in a file called "custom.txt"
   and the file will be created in the program folder and you will be able to use
-  that text file for load database, load DNA, process the DNA and then search
+  that text file to load database, load DNA, process the DNA and then search
   it.
 
  */
