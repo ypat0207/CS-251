@@ -1,0 +1,21 @@
+Flavor1 Flavor2 Flavor3
+Chocolate
+Vanilla
+MintChocolateChip
+Butterscotch Pistachio
+RainbowSherbet
+Chocolate Vanilla Strawberry
+ChocolateChip Mint
+Strawberry CookiesandCream
+Vanilla
+Strawberry RainbowSherbet
+RainbowSherbet
+RockyRoad MintChocolateChip
+Pistachio
+Mint
+MintChocolateChip Chocolate
+Chocolate Vanilla
+CookieDough Strawberry
+Vanilla ChocolateChip
+CookiesandCream
+Chocolate
